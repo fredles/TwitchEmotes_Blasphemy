@@ -5,9 +5,5 @@
 ## SavedVariables: TwitchEmotes_Blasphemy_Settings
 ## OptionalDeps: Ace3
 
-#@no-lib-strip@
-libs\AceConfig-3.0\AceConfig-3.0.xml
-#@end-no-lib-strip@
-
 Emotes.lua
 Init_Emotes.lua
