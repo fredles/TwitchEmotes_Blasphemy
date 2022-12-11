@@ -1,7 +1,7 @@
 # Blasphemy Twitch Emotes - Guide de submission
 
 1. Cloner le repository localement et créer une branche
-1. Sauvegarder l'emote au format .TGA dans le répertoire /emotes. S'assurer qu'il soit 128x128 pixel
+1. Sauvegarder l'emote au format .TGA dans le répertoire /emotes. S'assurer qu'il soit 128x128 pixels
 1. Éditer le fichier Emotes.lua pour y inclure la définition
     1. La section TwitchEmotes_Blasphemy_Emoticons définit le nom de l'emote dans le chat
     1. La section TwitchEmotes_Blasphemy_Emoticons_Pack définit le path du fichier TGA et le format de la chat.
