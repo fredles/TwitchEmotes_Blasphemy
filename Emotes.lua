@@ -1,7 +1,9 @@
 TwitchEmotes_Blasphemy_Emoticons = {
-    ["passuperXD"] = "passuperXD",
+    ["pasSuperXD"] = "pasSuperXD",
+    ["notBadCat"] = "notBadCat"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
-    ["passuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\passuperXD.tga:28:28"
+    ["pasSuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\pasSuperXD.tga:28:28",
+    ["notBadCat"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\notBadCat.tga:28:28"
 }
