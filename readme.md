@@ -1,5 +1,7 @@
 # Blasphemy Twitch Emotes - Guide de submission
 
+[CurseForge](https://www.curseforge.com/wow/addons/twitchemotes_blasphemy)
+
 1. Cloner le repository localement et créer une branche
 1. Sauvegarder l'emote au format .TGA dans le répertoire /emotes. S'assurer qu'il soit 128x128 pixels
 1. Éditer le fichier Emotes.lua pour y inclure la définition
