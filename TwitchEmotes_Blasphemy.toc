@@ -2,7 +2,7 @@
 ## Title: TwitchEmotes_Blasphemy
 ## Author: Fredles
 ## Version: 1.0.2
-## SavedVariables: TwitchEmotes_Blasphemy_Settings
+## Dependency: TwitchEmotes
 ## OptionalDeps: Ace3
 
 #@no-lib-strip@
