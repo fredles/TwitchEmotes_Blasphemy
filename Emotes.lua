@@ -18,10 +18,12 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["quilleur"] = "quilleur",
     ["quilleW"] = "quilleW",
     ["saddBepis"] = "saddBepis",
-    ["Ultramar"] = "Ultramar"
+    ["Ultramar"] = "Ultramar",
+    ["jouseur"] = "jouseur"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
+    ["jouseur"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\jouseur.tga:28:28",
     ["pasSuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\pasSuperXD.tga:28:28",
     ["notBadCat"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\notBadCat.tga:28:28",
     ["PasSuperLMAO"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\PasSuperLMAO.tga:28:28",
