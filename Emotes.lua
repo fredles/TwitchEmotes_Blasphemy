@@ -20,10 +20,14 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["saddBepis"] = "saddBepis",
     ["Ultramar"] = "Ultramar",
     ["jouseur"] = "jouseur",
-    ["OursGarou"] = "OursGarou"
+    ["jouzeur"] = "jouzeur",
+    ["OursGarou"] = "OursGarou",
+    ["stopbeingMean"] = "stopbeingMean"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
+    ["jouzeur"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\jouzeur.tga:28:28",
+    ["stopbeingMean"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\stopbeingMean.tga:28:28",
     ["OursGarou"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\OursGarou.tga:28:28",
     ["jouseur"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\jouseur.tga:28:28",
     ["pasSuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\pasSuperXD.tga:28:28",
