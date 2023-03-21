@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100007
 ## Title: TwitchEmotes_Blasphemy
 ## Author: Fredles
 ## Version: 1.0.2
