@@ -1,7 +1,7 @@
 ## Interface: 100100
 ## Title: TwitchEmotes_Blasphemy
 ## Author: Fredles
-## Version: 1.0.2
+## Version: 1.0.12
 ## Dependency: TwitchEmotes
 ## OptionalDeps: Ace3
 
