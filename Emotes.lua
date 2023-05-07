@@ -49,5 +49,6 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["quilleur"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\quilleur.tga:28:28",
     ["quilleW"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\quilleW.tga:28:28",
     ["saddBepis"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\saddBepis.tga:28:28",
-    ["Ultramar"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Ultramar.tga:28:28"
+    ["Ultramar"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Ultramar.tga:28:28",
+    ["WhatCost"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\WhatCost.tga:28:28"
 }
