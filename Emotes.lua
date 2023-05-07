@@ -2,8 +2,6 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["pasSuperXD"] = "pasSuperXD",
     ["notBadCat"] = "notBadCat",
     ["PasSuperLMAO"] = "PasSuperLMAO",
-    ["%"] = "%",
-    ["10"] = "10",
     ["Blaze"] = "Blaze",
     ["BlokChamp"] = "BlokChamp",
     ["BlokSleeper"] = "BlokSleeper",
@@ -22,7 +20,8 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["jouseur"] = "jouseur",
     ["jouzeur"] = "jouzeur",
     ["OursGarou"] = "OursGarou",
-    ["stopbeingMean"] = "stopbeingMean"
+    ["stopbeingMean"] = "stopbeingMean",
+    ["WhatCost"] = "WhatCost"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -33,8 +32,6 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["pasSuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\pasSuperXD.tga:28:28",
     ["notBadCat"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\notBadCat.tga:28:28",
     ["PasSuperLMAO"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\PasSuperLMAO.tga:28:28",
-    ["%"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\%.tga:28:28",
-    ["10"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\10.tga:28:28",
     ["Blaze"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Blaze.tga:28:28",
     ["BlokChamp"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BlokChamp.tga:28:28",
     ["BlokSleeper"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BlokSleeper.tga:28:28",
