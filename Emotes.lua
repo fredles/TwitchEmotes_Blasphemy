@@ -21,7 +21,8 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["jouzeur"] = "jouzeur",
     ["OursGarou"] = "OursGarou",
     ["stopbeingMean"] = "stopbeingMean",
-    ["WhatCost"] = "WhatCost"
+    ["WhatCost"] = "WhatCost",
+    ["Chadge"] = "Chadge"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -47,5 +48,6 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["quilleW"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\quilleW.tga:28:28",
     ["saddBepis"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\saddBepis.tga:28:28",
     ["Ultramar"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Ultramar.tga:28:28",
-    ["WhatCost"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\WhatCost.tga:28:28"
+    ["WhatCost"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\WhatCost.tga:28:28",
+    ["Chadge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Chadge.tga:28:28"
 }
