@@ -49,5 +49,6 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["saddBepis"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\saddBepis.tga:28:28",
     ["Ultramar"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Ultramar.tga:28:28",
     ["WhatCost"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\WhatCost.tga:28:28",
-    ["Chadge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Chadge.tga:28:28"
+    ["Chadge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Chadge.tga:28:28",
+    ["FredgeLaugh"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\FredgeLaugh.tga:28:28"
 }
