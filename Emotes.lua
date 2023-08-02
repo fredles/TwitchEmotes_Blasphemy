@@ -22,7 +22,8 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["OursGarou"] = "OursGarou",
     ["stopbeingMean"] = "stopbeingMean",
     ["WhatCost"] = "WhatCost",
-    ["Chadge"] = "Chadge"
+    ["Chadge"] = "Chadge",
+    ["FredgeLaugh"] = "FredgeLaugh"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
