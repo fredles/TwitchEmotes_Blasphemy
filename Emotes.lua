@@ -1,5 +1,5 @@
 TwitchEmotes_Blasphemy_Emoticons = {
-    ["pasSuperXD"] = "pasSuperXD",
+    ["Passuperxd"] = "Passuperxd",
     ["notBadCat"] = "notBadCat",
     ["PasSuperLMAO"] = "PasSuperLMAO",
     ["Blaze"] = "Blaze",
@@ -31,7 +31,7 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["stopbeingMean"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\stopbeingMean.tga:28:28",
     ["OursGarou"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\OursGarou.tga:28:28",
     ["jouseur"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\jouseur.tga:28:28",
-    ["pasSuperXD"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\pasSuperXD.tga:28:28",
+    ["Passuperxd"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Passuperxd.tga:28:28",
     ["notBadCat"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\notBadCat.tga:28:28",
     ["PasSuperLMAO"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\PasSuperLMAO.tga:28:28",
     ["Blaze"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Blaze.tga:28:28",
