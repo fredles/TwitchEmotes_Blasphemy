@@ -26,7 +26,10 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["FredgeLaugh"] = "FredgeLaugh",
     ["Happyge"] = "Happyge",
     ["Icetruck"] = "Icetruck",
-    ["Rahlmage"] = "Rahlmage"
+    ["Ralhmage"] = "Ralhmage",
+    ["Nyxmage"] = "Nyxmage",
+    ["Baromald"] = "Baromald",
+    ["NiceGame"] = "NiceGame"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -57,5 +60,8 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["FredgeLaugh"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\FredgeLaugh.tga:28:28",
     ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28",
     ["Icetruck"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28",
-    ["Rahlmage"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28"
+    ["Ralhmage"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28",
+    ["Baromald"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28",
+    ["Nyxmage"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28",
+    ["NiceGame"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28"
 }
