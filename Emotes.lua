@@ -24,7 +24,9 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["WhatCost"] = "WhatCost",
     ["Chadge"] = "Chadge",
     ["FredgeLaugh"] = "FredgeLaugh",
-    ["Happyge"] = "Happyge"
+    ["Happyge"] = "Happyge",
+    ["Icetruck"] = "Icetruck",
+    ["Rahlmage"] = "Rahlmage"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -53,5 +55,7 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["WhatCost"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\WhatCost.tga:28:28",
     ["Chadge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Chadge.tga:28:28",
     ["FredgeLaugh"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\FredgeLaugh.tga:28:28",
-    ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28"
+    ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28",
+    ["Icetruck"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28",
+    ["Rahlmage"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Mage.tga:28:28"
 }
