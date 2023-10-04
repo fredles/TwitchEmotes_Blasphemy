@@ -55,4 +55,5 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["Chadge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Chadge.tga:28:28",
     ["FredgeLaugh"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\FredgeLaugh.tga:28:28",
     ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28",
+    ["NiceGame"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28",
 }
