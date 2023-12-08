@@ -25,7 +25,8 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["Chadge"] = "Chadge",
     ["FredgeLaugh"] = "FredgeLaugh",
     ["Happyge"] = "Happyge",
-    ["NiceGame"] = "NiceGame"
+    ["NiceGame"] = "NiceGame",
+    ["Truite"] = "Truite"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -56,4 +57,5 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["FredgeLaugh"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\FredgeLaugh.tga:28:28",
     ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28",
     ["NiceGame"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28",
+    ["Truite"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28"
 }
