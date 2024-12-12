@@ -27,8 +27,8 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["Happyge"] = "Happyge",
     ["NiceGame"] = "NiceGame",
     ["Truite"] = "Truite",
-    ["Pepige"] = "Pepige"
-
+    ["Pepige"] = "Pepige",
+    ["KeKMao"] = "KeKMao"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -60,6 +60,6 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["Happyge"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Happyge.tga:28:28",
     ["NiceGame"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28",
     ["Truite"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Truite.tga:28:28",
-    ["Pepige"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Pepige.tga:28:28"
-
+    ["Pepige"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Pepige.tga:28:28",
+    ["KekMao"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\KekMao.tga:28:28"
 }
