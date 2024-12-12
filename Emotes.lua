@@ -28,7 +28,7 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["NiceGame"] = "NiceGame",
     ["Truite"] = "Truite",
     ["Pepige"] = "Pepige",
-    ["KeKMao"] = "KeKMao"
+    ["KekMao"] = "KekMao"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
