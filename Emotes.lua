@@ -28,7 +28,15 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["NiceGame"] = "NiceGame",
     ["Truite"] = "Truite",
     ["Pepige"] = "Pepige",
-    ["KekMao"] = "KekMao"
+    ["KekMao"] = "KekMao",
+    ["Bestdiscqc"] = "Bestdiscqc",
+    ["Grimoire"] = "Grimoire",
+    ["PPC"] = "PPC",
+    ["patpaquet"] = "patpaquet",
+    ["Tintouer"] = "Tintouer",
+    ["MaxPog"] = "MaxPog",
+    ["BPPotato"] = "BPPotato",
+    ["BullyBP"] = "BullyBP"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -61,5 +69,13 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["NiceGame"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\NiceGame.tga:28:28",
     ["Truite"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Truite.tga:28:28",
     ["Pepige"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Pepige.tga:28:28",
-    ["KekMao"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\KekMao.tga:28:28"
+    ["KekMao"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\KekMao.tga:28:28",
+    ["Bestdiscqc"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Bestdiscqc.tga:28:28",
+    ["Grimoire"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Grimoire.tga:28:28",
+    ["PPC"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\PPC.tga:28:28",
+    ["patpaquet"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\patpaquet.tga:28:28",
+    ["Tintouer"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Tintouer.tga:28:28",
+    ["MaxPog"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\MaxPog.tga:28:28",
+    ["BPPotato"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BPPotato.tga:28:28",
+    ["BullyBP"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BullyBP.tga:28:28"
 }
