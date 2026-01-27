@@ -13,19 +13,35 @@ function TwitchEmotes_Blasphemy_RenderSuggestion(text)
        fullEmotePath = TwitchEmotes_defaultpack[text]
     end
     if(fullEmotePath ~= nil) then
-        local size = string.match(fullEmotePath, ":(.*)")
-        local path_and_size = "";
-        if(size ~= nil) then
-            path_and_size = string.gsub(fullEmotePath, size, "16:16")
+        -- Check if this is an animated emote (has animation metadata)
+        local path = string.match(fullEmotePath, "(.*%.tga)")
+        local animdata = TwitchEmotes_Blasphemy_Animation_Metadata and 
+                        TwitchEmotes_Blasphemy_Animation_Metadata[path]
+        
+        if animdata then
+            -- Animated emote: use the frame string builder (shows first frame)
+            return TwitchEmotes_Blasphemy_BuildEmoteFrameString(path, animdata, 0, 16, 16) .. " " .. text
         else
-            path_and_size = fullEmotePath .. "16:16";
+            -- Static emote: use standard texture string
+            local size = string.match(fullEmotePath, ":(.*)")
+            local path_and_size = "";
+            if(size ~= nil) then
+                path_and_size = string.gsub(fullEmotePath, size, "16:16")
+            else
+                path_and_size = fullEmotePath .. ":16:16";
+            end
+            return "|T".. path_and_size .."|t " .. text;
         end
-        return "|T".. path_and_size .."|t " .. text;
     end
 end
 
 function TwitchEmotes_Blasphemy:SetAutoComplete(value)
     if value and not autocompleteInited then
+        -- Guard against missing TwitchEmotes globals
+        if not AllTwitchEmoteNames or not SetupAutoComplete then
+            return
+        end
+        
         local i = tablelength(AllTwitchEmoteNames);
         for k, _ in pairs(TwitchEmotes_Blasphemy_Emoticons_Pack) do
             AllTwitchEmoteNames[i] = k;

@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 120000
 ## Title: TwitchEmotes_Blasphemy
 ## Author: Fredles
 ## Version: 1.0.12
@@ -11,6 +11,7 @@ libs\AceConfig-3.0\AceConfig-3.0.xml
 #@end-no-lib-strip@
 
 Emotes.lua
+Animator.lua
 Core.lua
 Init_Emotes.lua
 Helpers.lua
