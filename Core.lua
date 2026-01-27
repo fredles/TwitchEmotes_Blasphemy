@@ -7,5 +7,8 @@ TwitchEmotes_Blasphemy = LibStub("AceAddon-3.0"):NewAddon("TwitchEmotes_Blasphem
 function TwitchEmotes_Blasphemy:OnInitialize()
 
     TwitchEmotes_Blasphemy:SetAutoComplete(true)
+    
+    -- Initialize the animation system for animated emotes ()
+    TwitchEmotes_Blasphemy_InitAnimator()
 
 end
