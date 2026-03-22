@@ -36,7 +36,9 @@ TwitchEmotes_Blasphemy_Emoticons = {
     ["Tintouer"] = "Tintouer",
     ["MaxPog"] = "MaxPog",
     ["BPPotato"] = "BPPotato",
-    ["BullyBP"] = "BullyBP"
+    ["BullyBP"] = "BullyBP",
+    ["RothemeAngle"] = "RothemeAngle",
+    ["shedAngle"] = "shedAngle"
 }
 
 TwitchEmotes_Blasphemy_Emoticons_Pack = {
@@ -77,5 +79,7 @@ TwitchEmotes_Blasphemy_Emoticons_Pack = {
     ["Tintouer"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\Tintouer.tga:28:28",
     ["MaxPog"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\MaxPog.tga:28:28",
     ["BPPotato"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BPPotato.tga:28:28",
-    ["BullyBP"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BullyBP.tga:28:28"
+    ["BullyBP"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\BullyBP.tga:28:28",
+    ["RothemeAngle"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\RothemeAngle.tga:28:28",
+    ["shedAngle"] = "Interface\\AddOns\\TwitchEmotes_Blasphemy\\emotes\\shedAngle.tga:28:28"
 }
